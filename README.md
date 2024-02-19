@@ -27,12 +27,22 @@ the implementation of network infrastructures with kathara. <br>
 
 ### My current programming languages (i'm still learning some of it):
 
+![html](./media/html.png)
+![css](./media/css.png)
+<img src="./media/python.png" alt="python" width="70"/>
+<img src="./media/java.png" alt="java" width="70">
+<img src="./media/javascript.png" alt="JS" width="70">
+<img src="./media/SQL.png" alt="SQL" width="70"
 <img src="./media/github.png" alt="github" width="70">
 <img src="./media/VSC.svg" alt="vsc" width="70">
 <img src="./media/gitkraken.svg" alt="gitkraken" width="70">
 <img src="./media/eclipse.svg" alt="eclipse" width="280">
 <img src="./media/JetBrains.svg" alt="JB" width="150">
-<img src="./media/vim.webp" alt="vim" width="70">
+<img src="./media/vim.webp" alt="vim" width="70">>
+<img src="./media/C.svg" alt="C" width="70">
+<img src="./media/C++.svg" alt="C++" width="70">
+<img src="media/rust.png" alt="rust" width="70">
+<img src="./media/php.webp" alt="php" width="70">
 
 ### My current programming languages (i'm still learning some of it):
 
