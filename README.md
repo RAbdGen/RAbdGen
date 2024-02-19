@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-I'm a French IT student 🇫🇷.
+I'm a French IT student &#x1f1eb;&#x1f1f7;. <br>
 My goal is to work in cybersecurity 🔒.
 
 ### My Projects:
@@ -11,7 +11,7 @@ My goal is to work in cybersecurity 🔒.
 I carried out a number of projects during my BUT, here is some of the most important:
 
 The most important one is a web application for Legrand <br>
-<img src="./media/Logo_Legrand.png" alt="legrand" width="100">
+<a href="https://github.com/RAbdGen/kathara_project"> <img src="./media/Logo_Legrand.png" alt="legrand" width="100"> </a>
 
 the implementation of network infrastructures with kathara. <br>
 <img src="media/kathara.png" alt="kathara" width="100">
