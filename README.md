@@ -29,10 +29,6 @@ the implementation of network infrastructures with kathara. <br>
 
 ![html](./media/html.png)
 ![css](./media/css.png)
-<img src="./media/python.png" alt="python" width="70"/>
-<img src="./media/java.png" alt="java" width="70">
-<img src="./media/javascript.png" alt="JS" width="70">
-<img src="./media/SQL.png" alt="SQL" width="70"
 <img src="./media/github.png" alt="github" width="70">
 <img src="./media/VSC.svg" alt="vsc" width="70">
 <img src="./media/gitkraken.svg" alt="gitkraken" width="70">
