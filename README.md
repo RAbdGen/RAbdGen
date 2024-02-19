@@ -1,6 +1,10 @@
-# Hi 👋, my name is Renaud and i'm a French IT student.
+<img src="./media/banner.png" alt="banner">
+<center> <h1>Hi 👋, my name is Renaud</h1> </center>
 
-## My goal is to work in cybersecurity.
+## 👨🏻‍💻 About Me:
+
+I'm a French IT student 🇫🇷.
+My goal is to work in cybersecurity 🔒.
 
 ### My Projects:
 
