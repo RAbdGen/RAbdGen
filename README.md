@@ -16,6 +16,7 @@ the implementation of network infrastructures with kathara. <br>
 
 ![html](./media/html.png)
 ![css](./media/css.png)
+![eclipse](media/eclipse.svg)
 <img src="./media/python.png" alt="python" width="70"/>
 <img src="./media/java.png" alt="java" width="70">
 <img src="./media/javascript.png" alt="JS" width="70">
@@ -25,7 +26,7 @@ the implementation of network infrastructures with kathara. <br>
 <img src="media/rust.png" alt="rust" width="70">
 <img src="./media/php.webp" alt="php" width="70">
 
-### The tools that i use:
+The tools that i use:
 
 <img src="./media/github.png" alt="github" width="70">
 <img src="./media/VSC.svg" alt="vsc" width="70">
