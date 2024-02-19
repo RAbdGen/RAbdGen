@@ -27,7 +27,6 @@ the implementation of network infrastructures with kathara. <br>
 
 ### My current programming languages (i'm still learning some of it):
 
-![html](./media/html.png)
 <img src="./media/github.png" alt="github" width="70">
 <img src="./media/VSC.svg" alt="vsc" width="70">
 <img src="./media/gitkraken.svg" alt="gitkraken" width="70">
