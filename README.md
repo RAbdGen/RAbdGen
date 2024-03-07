@@ -45,7 +45,7 @@ the implementation of network infrastructures with kathara. <br>
 <img src="./media/Tux.webp" alt="tux" width="70">
 <img src="./media/windows.png" alt="windows" width="90">
 
-### My Links (clickable image):
+### My Links:
 
 <a href="https://www.linkedin.com/in/renaud-abdellou-genestier-a5ba07297/"><img src ="./media/linkedin.png" alt="linkedin" width="70"></a>
 <a href="https://play.picoctf.org/users/WiisteeR"><img src="./media/picoctf.png" alt="picoctf" width="70"></a>
