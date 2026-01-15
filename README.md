@@ -1,4 +1,3 @@
-<img src="./media/banner.png" alt="banner">
 <center> <h1>Hi 👋, my name is Renaud</h1> </center>
 
 ## 👨🏻‍💻 About Me:
