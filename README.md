@@ -1,6 +1,4 @@
-# <img src="./media/banner.png" width="100%">
-
-<h1 align="center">Hi, I'm Renaud 👋</h1>
+# <h1 align="center">Hi, I'm Renaud 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renaud-abdellou-genestier-a5ba07297/">
@@ -18,10 +16,11 @@
 
 ### 🎓 About Me
 
-I am a computer science student with a strong focus on **Cybersecurity**.
+I am a computer science student with a strong focus on **Cybersecurity** and **Data Science**.
 *   🎓 **Current:** 3rd year Computer Science degree (L3 Informatique) - Aiming for a Master's degree.
 *   📜 **Graduate:** BUT Informatique (2025).
 *   🚀 Passionate about exploring system vulnerabilities and network security.
+*   📊 Deeply interested in **Data Science**, specifically for dev/psychology and human behavior analysis through data.
 
 ---
 
@@ -94,7 +93,7 @@ I am a computer science student with a strong focus on **Cybersecurity**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAbdGen&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAbdGen&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAbdGen&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
