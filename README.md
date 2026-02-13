@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Data+Science+Enthusiast;Human+Behavior+Analyst;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Data+Science+Enthusiast;Always+Learning..." alt="Typing SVG" />
 </p>
 
 <p align="center">
