@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAbdGen&theme=radical&no-frame=true&margin-w=15" alt="RAbdGen Trophies" />
+  <img src="https://raw.githubusercontent.com/RAbdGen/RAbdGen/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
