@@ -1,6 +1,10 @@
 # <h1 align="center">Hi, I'm Renaud 👋</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAbdGen&label=Profile%20views&color=0e75b6&style=flat" alt="RAbdGen" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/renaud-abdellou-genestier-a5ba07297/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -10,6 +14,10 @@
   <a href="https://play.picoctf.org/users/WiisteeR">
     <img src="https://img.shields.io/badge/picoCTF-FF0000?style=for-the-badge&logo=target&logoColor=white" alt="picoCTF" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RAbdGen&theme=radical&no-frame=true&margin-w=15" alt="RAbdGen Trophies" />
 </p>
 
 ---
@@ -98,4 +106,17 @@ I am a computer science student with a strong focus on **Cybersecurity** and **D
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAbdGen&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/renaud-abdellou-genestier-a5ba07297/" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:renaud.genestier@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
