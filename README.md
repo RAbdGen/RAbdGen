@@ -17,7 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RAbdGen/RAbdGen/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Data+Science+Enthusiast;Human+Behavior+Analyst;Always+Learning..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header" width="100%"/>
 </p>
 
 ---
