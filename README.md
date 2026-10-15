@@ -90,7 +90,7 @@ I'm a computer science student. Cybersecurity is my main field, and I also like 
 
 <h4 align="center">Operating Systems & Environment</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Omarchy-Daily_Driver-5E81AC?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Omarchy" />
+  <img src="https://img.shields.io/badge/Omarchy-Daily_Driver-5E81AC?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyMDAiIHZpZXdCb3g9IjAgMCAxMjAwIDEyMDAiIHdpZHRoPSIxMjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0ibTEyMDAgMTIwMGgtNDgwdi04MGg0MDB2LTEwNDBoLTQ3OS45OTZ2MTYwaC00MDB2NzIwaDcyMHYtNzIwaC04MHYtODBoMTU5Ljk5NnY4ODBoLTQwMHYxNjBoLTY0MHYtMTIwMGgxMjAwem0tMTEyMC04MGg0ODB2LTgwaC00MDBsLjAwNC00MDBoLTgwLjAwNHptMC01NjBoODAuMDA0di00MDBoNDAwdi04MGgtNDgwLjAwNHoiIGZpbGw9IiNmZmZmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" alt="Omarchy" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" alt="Hyprland" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
@@ -98,12 +98,6 @@ I'm a computer science student. Cybersecurity is my main field, and I also like 
 
 > ### 💙 I live on [Omarchy](https://omarchy.org)
 > Omarchy (Arch + Hyprland) is my daily driver and I'm attached to it. I like the tiling, keyboard-driven workflow and I tweak it to my taste. I also keep a fork of [omarchy-tray](https://github.com/RAbdGen/omarchy-tray), a system tray for it.
-
-<p align="center">
-  <img src="media/omarchy.png" width="700" alt="Omarchy desktop with the Tokyo Night theme" />
-  <br />
-  <sub>Omarchy with the Tokyo Night theme (screenshot from the <a href="https://github.com/omacom/omarchy">official repo</a>, MIT license)</sub>
-</p>
 
 *   I'm comfortable on most Linux distributions (Arch, Debian/Ubuntu, KDE...).
 *   I also know Windows well enough for development and testing.
