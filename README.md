@@ -99,6 +99,12 @@ I'm a computer science student. Cybersecurity is my main field, and I also like 
 > ### 💙 I live on [Omarchy](https://omarchy.org)
 > Omarchy (Arch + Hyprland) is my daily driver and I'm attached to it. I like the tiling, keyboard-driven workflow and I tweak it to my taste. I also keep a fork of [omarchy-tray](https://github.com/RAbdGen/omarchy-tray), a system tray for it.
 
+<p align="center">
+  <img src="media/omarchy.png" width="700" alt="Omarchy desktop with the Tokyo Night theme" />
+  <br />
+  <sub>Omarchy with the Tokyo Night theme (screenshot from the <a href="https://github.com/omacom/omarchy">official repo</a>, MIT license)</sub>
+</p>
+
 *   I'm comfortable on most Linux distributions (Arch, Debian/Ubuntu, KDE...).
 *   I also know Windows well enough for development and testing.
 
