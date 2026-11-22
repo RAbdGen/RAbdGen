@@ -42,7 +42,8 @@ I'm a computer science student. Cybersecurity is my main field, and I also like 
   <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
   <a href="https://quarkus.io"><img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" /></a>
   <a href="https://jakarta.ee"><img src="https://img.shields.io/badge/Jakarta_EE-222222?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxODIgMTc5Ij48cGF0aCBkPSJNMTY2LjYgNy41TDEyNi42IDUxLjNDMTI2LjEgNzMuNSAxMjAuOCAxMDcgOTcuMiAxMzcuNkwxMzIgMTQ2LjNDMTg5LjkgOTEuNiAxNjYuNiA3LjUgMTY2LjYgNy41WiIgZmlsbD0iI0ZEQjk0MCIvPjxwYXRoIGQ9Ik0xMjYuNiA1MS4zQzEyNyAzNS45IDEyNSAyNiAxMjUgMjZMMzYuOSAxMjIuOEw5Ny4xIDEzNy44Qzk3LjEgMTM3LjcgOTcuMiAxMzcuNyA5Ny4yIDEzNy42TDU3LjEgMTI3LjZMMTI2LjYgNTEuM1oiIGZpbGw9IiNGRUIzMjIiLz48cGF0aCBkPSJNNTcuMiAxMjcuNkw5Ny4zIDEzNy42QzEyMC44IDEwNyAxMjYuMSA3My42IDEyNi42IDUxLjNMNTcuMiAxMjcuNloiIGZpbGw9IiNGOTgyMDAiLz48cGF0aCBkPSJNMTEyLjkgMTQ3LjdDMTE2LjQgMTQ3LjcgMTE5LjggMTQ3LjkgMTIzLjIgMTQ4LjJMOS41IDEyMEM5LjUgMTIwIDMwLjcgMTI3LjEgNTYuMiAxNjUuNEM2OS43IDE1NC41IDkwLjEgMTQ3LjcgMTEyLjkgMTQ3LjdaIiBmaWxsPSIjMUIyMDhCIi8%2BPC9zdmc%2B" alt="Jakarta EE" /></a>
-  <a href="https://hermes-agent.nousresearch.com"><img src="https://img.shields.io/badge/Hermes_Agent-5E2B97?style=for-the-badge" alt="Hermes Agent" /></a>
+  <a href="https://www.openmp.org"><img src="https://img.shields.io/badge/OpenMP_(C)-1F6FB5?style=for-the-badge" alt="OpenMP" /></a>
+  <a href="https://www.mpi-forum.org"><img src="https://img.shields.io/badge/MPI_(C)-4B5563?style=for-the-badge" alt="MPI" /></a>
 </p>
 
 ---
@@ -74,6 +75,8 @@ I'm a computer science student. Cybersecurity is my main field, and I also like 
   <a href="https://claude.com/product/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
   <a href="https://openai.com/codex"><img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjIuMjgxOSA5LjgyMTFhNS45ODQ3IDUuOTg0NyAwIDAgMC0uNTE1Ny00LjkxMDggNi4wNDYyIDYuMDQ2MiAwIDAgMC02LjUwOTgtMi45QTYuMDY1MSA2LjA2NTEgMCAwIDAgNC45ODA3IDQuMTgxOGE1Ljk4NDcgNS45ODQ3IDAgMCAwLTMuOTk3NyAyLjkgNi4wNDYyIDYuMDQ2MiAwIDAgMCAuNzQyNyA3LjA5NjYgNS45OCA1Ljk4IDAgMCAwIC41MTEgNC45MTA3IDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE0NiAyLjkwMDFBNS45ODQ3IDUuOTg0NyAwIDAgMCAxMy4yNTk5IDI0YTYuMDU1NyA2LjA1NTcgMCAwIDAgNS43NzE4LTQuMjA1OCA1Ljk4OTQgNS45ODk0IDAgMCAwIDMuOTk3Ny0yLjkwMDEgNi4wNTU3IDYuMDU1NyAwIDAgMC0uNzQ3NS03LjA3Mjl6bS05LjAyMiAxMi42MDgxYTQuNDc1NSA0LjQ3NTUgMCAwIDEtMi44NzY0LTEuMDQwOGwuMTQxOS0uMDgwNCA0Ljc3ODMtMi43NTgyYS43OTQ4Ljc5NDggMCAwIDAgLjM5MjctLjY4MTN2LTYuNzM2OWwyLjAyIDEuMTY4NmEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4MjZhNC41MDQgNC41MDQgMCAwIDEtNC40OTQ1IDQuNDk0NHptLTkuNjYwNy00LjEyNTRhNC40NzA4IDQuNDcwOCAwIDAgMS0uNTM0Ni0zLjAxMzdsLjE0Mi4wODUyIDQuNzgzIDIuNzU4MmEuNzcxMi43NzEyIDAgMCAwIC43ODA2IDBsNS44NDI4LTMuMzY4NXYyLjMzMjRhLjA4MDQuMDgwNCAwIDAgMS0uMDMzMi4wNjE1TDkuNzQgMTkuOTUwMmE0LjQ5OTIgNC40OTkyIDAgMCAxLTYuMTQwOC0xLjY0NjR6TTIuMzQwOCA3Ljg5NTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjU1LTEuOTcyOFYxMS42YS43NjY0Ljc2NjQgMCAwIDAgLjM4NzkuNjc2NWw1LjgxNDQgMy4zNTQzLTIuMDIwMSAxLjE2ODVhLjA3NTcuMDc1NyAwIDAgMS0uMDcxIDBsLTQuODMwMy0yLjc4NjVBNC41MDQgNC41MDQgMCAwIDEgMi4zNDA4IDcuODcyem0xNi41OTYzIDMuODU1OEwxMy4xMDM4IDguMzY0IDE1LjExOTIgNy4yYS4wNzU3LjA3NTcgMCAwIDEgLjA3MSAwbDQuODMwMyAyLjc5MTNhNC40OTQ0IDQuNDk0NCAwIDAgMS0uNjc2NSA4LjEwNDJ2LTUuNjc3MmEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3em0yLjAxMDctMy4wMjMxbC0uMTQyLS4wODUyLTQuNzczNS0yLjc4MThhLjc3NTkuNzc1OSAwIDAgMC0uNzg1NCAwTDkuNDA5IDkuMjI5N1Y2Ljg5NzRhLjA2NjIuMDY2MiAwIDAgMSAuMDI4NC0uMDYxNWw0LjgzMDMtMi43ODY2YTQuNDk5MiA0LjQ5OTIgMCAwIDEgNi42ODAyIDQuNjZ6TTguMzA2NSAxMi44NjNsLTIuMDItMS4xNjM4YS4wODA0LjA4MDQgMCAwIDEtLjAzOC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3WiIvPjwvc3ZnPg%3D%3D" alt="Codex" /></a>
   <a href="https://antigravity.google"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" /></a>
+  <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-211E1E?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" /></a>
+  <a href="https://hermes-agent.nousresearch.com"><img src="https://img.shields.io/badge/Hermes_Agent-5E2B97?style=for-the-badge" alt="Hermes Agent" /></a>
 </p>
 
 <h4 align="center">Tools & Technologies</h4>
@@ -95,9 +98,6 @@ I'm a computer science student. Cybersecurity is my main field, and I also like 
   <a href="https://hypr.land"><img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" alt="Hyprland" /></a>
   <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCwwSDExLjM3N1YxMS4zNzJIMFpNMTIuNjIzLDBIMjRWMTEuMzcySDEyLjYyM1pNMCwxMi42MjNIMTEuMzc3VjI0SDBabTEyLjYyMywwSDI0VjI0SDEyLjYyMyIvPjwvc3ZnPg%3D%3D" alt="Windows" /></a>
 </p>
-
-> ### 💙 I live on [Omarchy](https://omarchy.org)
-> Omarchy (Arch + Hyprland) is my daily driver and I'm attached to it. I like the tiling, keyboard-driven workflow and I tweak it to my taste.
 
 *   I'm comfortable on most Linux distributions (Arch, Debian/Ubuntu, KDE...).
 *   I also know Windows well enough for development and testing.
@@ -121,9 +121,12 @@ I'm a computer science student. Cybersecurity is my main field, and I also like 
   </tr>
   <tr>
     <td width="50%">
-      <h4>LL(1) Parser</h4>
-      <p>LL(1) syntax analyzer for a mini C-like language, written in Python as a pushdown automaton.</p>
-      <a href="https://github.com/RAbdGen/compilation_LL1_parser">Repository</a>
+      <h4>invade.lol</h4>
+      <p>League of Legends statistics platform: player profiles, match history and a score for every game, plus a lightweight desktop app (Windows and macOS). I'm a co-developer of the project.</p>
+      <a href="https://invade.lol">Website</a> ·
+      <a href="https://github.com/invadelol/core">core</a> ·
+      <a href="https://github.com/invadelol/ui">ui</a> ·
+      <a href="https://github.com/invadelol/releases">releases</a>
     </td>
     <td width="50%">
       <h4>Legrand Web App</h4>
